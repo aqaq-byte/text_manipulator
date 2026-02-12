@@ -1,4 +1,4 @@
-The application, namely ‘kode’, receivea a command, a parameter, and a
+The application, namely ‘kode’, receives a a command, a parameter, and a
 filename in the command line and processes the file based on the given command.
 At the end the program reports of the changes in file, to the console.
 
